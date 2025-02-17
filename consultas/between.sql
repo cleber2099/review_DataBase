@@ -1,0 +1,5 @@
+SELECT * FROM filmes
+where ano BETWEEN 2001 AND ;
+
+SELECT * FROM filmes
+where ano NOT BETWEEN 2001 AND 2010;
